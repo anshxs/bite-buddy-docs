@@ -14,7 +14,7 @@ export default function BiteBuddyDocs() {
               AI that decodes your plate into calories, macros, and healthier choices.
             </p>
             <Badge className="mt-4 bg-black text-[#0f3] font-bold">
-              Team Larazus
+              Team lazrus
             </Badge>
           </div>
         </div>
@@ -326,7 +326,7 @@ export default function BiteBuddyDocs() {
               </p>
               <div className="text-center pt-4">
                 <Badge variant="default" className="text-sm">
-                  Team Larazus - 2025
+                  Team lazrus - 2025
                 </Badge>
               </div>
             </CardContent>
