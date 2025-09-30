@@ -15,6 +15,9 @@ The docs provide a complete guide for users and developers to understand the app
 
 ## 📸 Screenshots
 
+![Bite Buddy Documentation - AI-Powered Nutrition Tracking](https://github.com/user-attachments/assets/1d71418b-fa17-462d-9e07-0423c3f4d9c1)
+![Bite Buddy Documentation - AI-Powered Nutrition Tracking · 17 30 · 09-30](https://github.com/user-attachments/assets/ba025608-93ba-49ce-9592-af4b521cff4a)
+![Bite Buddy Documentation - AI-Powered Nutrition Tracking · 17 30 · 09-30 (1)](https://github.com/user-attachments/assets/6c89b1c2-8c22-4145-8ac1-ae2b5aae9c4f)
 
 
 ---
