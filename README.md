@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 BiteBuddy Documentation Website
 
-## Getting Started
+This is the **official documentation website** for **BiteBuddy** — an AI-powered calorie tracker and food analysis app.  
+The docs provide a complete guide for users and developers to understand the app’s features, APIs, architecture, and usage.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 Live Docs Website
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Website:** [Deployment of this website](https://bitebdocs.vercel.app/)
+- **App Download:** [Link to Download Apk](https://bitebw.vercel.app/BiteBuddy.apk)
+- **App Website:** [Link to App Website](https://bitebw.vercel.app/)
+- **Source Code:** [App Source Code](https://github.com/anshxs/bite-buddy)
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📸 Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📝 Project Overview
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The BiteBuddy Docs website is designed to give users and developers:
 
-## Deploy on Vercel
+- 📖 **Detailed API Documentation** – Descriptions of endpoints and request/response formats  
+- 🛠 **Setup Guides** – Step-by-step setup and installation instructions  
+- 💡 **Feature Explanations** – How each part of BiteBuddy works  
+- 🔍 **Usage Examples** – Real examples for implementation  
+- 📂 **Code References** – Links to relevant repositories and resources  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⚙️ Tech Stack
+
+- **Next.js** – React framework for static & dynamic docs  
+- **Markdown** – For documentation content  
+- **TailwindCSS** – Modern responsive styling  
+- **Shadcn UI / DocSite Framework** – UI components for docs  
+- **Vercel / Netlify** – Deployment of docs site  
+
+---
+
+## 🚀 Features
+
+- Fully responsive and mobile-friendly docs  
+- Searchable documentation  
+- Code snippets with syntax highlighting  
+- API references with examples  
+- Easy navigation and structured layout  
+
+---
+
+## 📬 Contact
+
+For support or contributions:  
+📧 [Your Email Here](mailto:anshsxa@gmail.com)  
+
+---
+
+© 2024 **BiteBuddy Docs** • *AI Calorie Tracker & Food Analysis App Documentation*
